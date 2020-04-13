@@ -1,0 +1,26 @@
+{
+  "name": "dominika_grajewska",
+  "version": "1.0.0",
+  "description": "rekrutacja Allegro 2020",
+  "main": "index.html",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grajewskad/allegro-rekrutacja.git"
+  },
+  "keywords": [
+    "pokemons_go"
+  ],
+  "author": "Dominika Grajewska",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/grajewskad/allegro-rekrutacja/issues"
+  },
+  "homepage": "https://github.com/grajewskad/allegro-rekrutacja#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "opn": "^6.0.0"
+  }
+}
